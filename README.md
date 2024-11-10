@@ -35,4 +35,4 @@ Entrance
 
 
 Usage
-![Screenshot of the opening sequence for Storefront Simulator](/journaldemonstration.png)
+![Screenshot of the opening sequence for Storefront Simulator](/journaldemonstraton.png)
