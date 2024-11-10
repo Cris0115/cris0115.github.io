@@ -3,18 +3,18 @@
 ## Midterm Assignment: Storefront Simulator
 ### An application that stands as a game, where you help direct customers who are in search of specific products to the correct isle.
 
-Intro Sequence
+> Intro Sequence
 ![Screenshot of the opening sequence for Storefront Simulator](/Storefront-Intro.png)
 
 
-Gameplay
+> Gameplay
 ![Screenshot of the opening sequence for Storefront Simulator](/Store-Gameplay.png)
 
 
 ## Assignment: Dice Game
 ### An application that serves as a simple Dice-rolling game. You input a number and guess what number the dice will roll at random.
 
-Gameplay
+> Gameplay
 ![Screenshot of the opening sequence for Storefront Simulator](/j-diceintro.png)
 
 
@@ -22,7 +22,7 @@ Gameplay
 ## Assignment: Trivia Game
 ### An application that allows users to play a short Trivia game.
 
-Gameplay
+> Gameplay
 ![Screenshot of the opening sequence for Storefront Simulator](/j-triviaintro.png)
 
 
@@ -30,9 +30,9 @@ Gameplay
 ## Assignment: Journal
 ### An application that lets users type personal journal entries, view their entries, and clear them.
 
-Entrance
+> Entrance
 ![Screenshot of the opening sequence for Storefront Simulator](/journalintro.png)
 
 
-Usage
+> Usage
 ![Screenshot of the opening sequence for Storefront Simulator](/journaldemonstraton.png)
